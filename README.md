@@ -6,4 +6,4 @@
 ---
 CountDown Timer
 
-![Capture_CountDown_Timer.PNG]()
+![Capture_CountDown_Timer.PNG](https://github.com/04xRaynal/CountDown_Timer_JavaSwing/blob/f3394f13d83237c35d3648c04e461942737cd27e/Capture_CountDown_Timer.PNG)
