@@ -175,7 +175,7 @@ public class CountDown_Timer extends JFrame implements ActionListener{
 		duration = duration.minusHours(hours);						//subtracts the hour value from duration
 		minutes = duration.toMinutes();								//gets the amount of minutes from duration
 		duration = duration.minusMinutes(minutes);					//subtracts the minutes value from duration
-		seconds = duration.toSeconds();								//gets the amount of seconds from duration
+		seconds = duration.toMillis() / 1000;								//gets the amount of seconds from duration
 	}
 	
 	
